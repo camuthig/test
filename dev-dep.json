@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "camuthig/faktory-worker": "dev-other"
+    "camuthig/faktory-worker": "dev-test"
   }
 }
